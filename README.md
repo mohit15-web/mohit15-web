@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @mohit15-web
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+<center>
+  
+# Hi 👋, I'm Mohit Chaudhary
+
+</center>
+
+## A passionate Self-taught Front-end Developer,I Build modern-day UI components to improve application performnace 
+
++ 🌱 I’m currently learning **MERN STACK**
+
 
 <!---
 mohit15-web/mohit15-web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
