@@ -1,7 +1,5 @@
 
-<p align="center">
-  <h1>Hi 👋, I'm Mohit Chaudhary</h1>
-</p>
+# <div align="center"> Hi 👋, I'm Mohit Chaudhary </div>
 
 ## A passionate Self-taught Front-end Developer,I Build modern-day UI components to improve application performnace 
 
