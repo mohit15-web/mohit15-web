@@ -1,9 +1,7 @@
 
-<center>
-  
-# Hi 👋, I'm Mohit Chaudhary
-
-</center>
+<p align="center">
+  <h1>Hi 👋, I'm Mohit Chaudhary</h1>
+</p>
 
 ## A passionate Self-taught Front-end Developer,I Build modern-day UI components to improve application performnace 
 
