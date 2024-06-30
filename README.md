@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohit Chaudhary</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<h3>👋 Hello World! Greetings, fellow developers! I'm Rahul Meena, a versatile software engineer based in India. My expertise lies in Java and JavaScript, where I excel in utilizing libraries and frameworks such as ReactJS, React Native, NodeJS, Express.js and more to architect robust systems and create seamless user experiences.
+<p>👋 Hello World! Greetings, fellow developers! I'm Mohit Chaudhary, a versatile Frontend Developerbased in India. My expertise lies in Java and JavaScript, where I excel in utilizing libraries and frameworks such as ReactJS, React, NodeJS, Express.js and more to architect robust systems and create seamless user experiences.</p>
 
-My proficiency extends to database management with MongoDB and MySQL, ensuring optimal data integrity and efficiency in projects. Backed by comprehensive coursework in Data Structures, Algorithms, OOPs, Deployment, and UI/UX, I am driven by a passion for creating scalable solutions that blend technical excellence with user-centric design.
+<p>My proficiency extends to database management with MongoDB and MySQL, ensuring optimal data integrity and efficiency in projects. Backed by comprehensive coursework in Data Structures, Algorithms, OOPs, Deployment, and UI/UX, I am driven by a passion for creating scalable solutions that blend technical excellence with user-centric design.</p>
 
-Let's embark on a collaborative journey to innovate and build transformative technologies! 💻🚀</h3>
+<p>Let's embark on a collaborative journey to innovate and build transformative technologies! 💻🚀</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit15-web&label=Profile%20views&color=0e75b6&style=flat" alt="mohit15-web" /> </p>
 
