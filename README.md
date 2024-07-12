@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohit Chaudhary</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<img align='right' src='https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif' alt='coding gif' width='450px'/>
+<img align='right' src='file:///C:/Users/91724/Downloads/developer.webp' alt='coding gif' width='450px'/>
 
 
 - 🌱 I’m currently learning **MERN**
