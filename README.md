@@ -5,7 +5,7 @@
 
 <img align='right' src='https://i.ibb.co/WFLM04Z/developer.webp' alt='coding gif' width='450px'/>
 
-I’m currently working on Developing innovative web applications and projects that push the boundaries of technology and user experience.<br><br>🌱 I’m currently learning Node js, Express js, MongoDB<br><br>👨‍💻 All of my projects are available at [Portfolio](https://www.linkedin.com/in/mohit-chaudhary-615972238/)<br><br>💬 Ask me about React, Javascript<br><br>📫 How to reach me Slide into my DMs on LinkedIn here or shoot me an email at mohitchoudharu2@gmail.com. Let's connect and chat over virtual coffee or tea (or whatever beverage tickles your fancy)!<br><br>📄 Know about my experiences [Resume](https://docs.google.com/document/d/1OLCIMJRMWyCihXfbb3l73CwZaFJuTmBP/edit?usp=drive_link&ouid=104828843335332663597&rtpof=true&sd=true)<br><br>
+I’m currently working on Developing innovative web applications and projects that push the boundaries of technology and user experience.<br><br>🌱 I’m currently learning Node js, Express js, MongoDB<br><br>👨‍💻 All of my projects are available at [Portfolio](https://portfolio-react-seven-ochre.vercel.app/)<br><br>💬 Ask me about React, Javascript<br><br>📫 How to reach me Slide into my DMs on LinkedIn or shoot me an email at mohitchoudharu2@gmail.com. Let's connect and chat over virtual coffee or tea (or whatever beverage tickles your fancy)!<br><br>📄 Know about my experiences [Resume](https://docs.google.com/document/d/1OLCIMJRMWyCihXfbb3l73CwZaFJuTmBP/edit?usp=drive_link&ouid=104828843335332663597&rtpof=true&sd=true)<br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
