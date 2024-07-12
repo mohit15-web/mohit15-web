@@ -1,18 +1,3 @@
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
-
-```js
-"use creativity";
-import { Person } from "indonesia";
-
-new Person({
-  name: "Deri Kurniawan",
-  title: "Full Stack Developer",
-  email: "deri.netuchi@gmail.com",
-  website: "https://deri.my.id",
-  junior: !!!false,
-}).introduce();
 
 
 
