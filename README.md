@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohit Chaudhary</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align='center'>a passionate Frontend Developer 💻 with a strong foundation in Java, HTML, CSS, JavaScript, React, and Node.js.From crafting seamless front-end interfaces to building robust back-end systems, I thrive on transforming complex challenges into elegant code.</h3> 
+
+## 💫 About Me:
 
 <img align='right' src='https://i.ibb.co/WFLM04Z/developer.webp' alt='coding gif' width='450px'/>
 
-
-- 🌱 I’m currently learning **MERN**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-react-seven-ochre.vercel.app/](https://portfolio-react-seven-ochre.vercel.app/)
-
-- 📫 How to reach me **mohitchoudharu2@gmail.com**
+I’m currently working on Developing innovative web applications and projects that push the boundaries of technology and user experience.<br><br>🌱 I’m currently learning Node js, Express js, MongoDB<br><br>👨‍💻 All of my projects are available at [Portfolio](https://www.linkedin.com/in/mohit-chaudhary-615972238/)<br><br>💬 Ask me about React, Javascript<br><br>📫 How to reach me Slide into my DMs on LinkedIn here or shoot me an email at mohitchoudharu2@gmail.com. Let's connect and chat over virtual coffee or tea (or whatever beverage tickles your fancy)!<br><br>📄 Know about my experiences [Resume](https://docs.google.com/document/d/1OLCIMJRMWyCihXfbb3l73CwZaFJuTmBP/edit?usp=drive_link&ouid=104828843335332663597&rtpof=true&sd=true)<br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
