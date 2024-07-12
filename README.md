@@ -1,12 +1,28 @@
-<h1 align="center">Hi 👋, I'm Mohit Chaudhary</h1>
-<h3 align="center">A passionate frontend developer</h3>
-<p>👋 Hello World! Greetings, fellow developers! I'm Mohit Chaudhary, a versatile Frontend Developerbased in India. My expertise lies in Java and JavaScript, where I excel in utilizing libraries and frameworks such as ReactJS, React, NodeJS, Express.js and more to architect robust systems and create seamless user experiences.</p>
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
 
-<p>My proficiency extends to database management with MongoDB and MySQL, ensuring optimal data integrity and efficiency in projects. Backed by comprehensive coursework in Data Structures, Algorithms, OOPs, Deployment, and UI/UX, I am driven by a passion for creating scalable solutions that blend technical excellence with user-centric design.</p>
+<picture> 
+<a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
+<img src="/assets//images/developer.webp" align="right" width="350">
+</a>
+</picture>
 
-<p>Let's embark on a collaborative journey to innovate and build transformative technologies! 💻🚀</p>
+```js
+"use creativity";
+import { Person } from "indonesia";
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit15-web&label=Profile%20views&color=0e75b6&style=flat" alt="mohit15-web" /> </p>
+new Person({
+  name: "Deri Kurniawan",
+  title: "Full Stack Developer",
+  email: "deri.netuchi@gmail.com",
+  website: "https://deri.my.id",
+  junior: !!!false,
+}).introduce();
+`
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
 
 - 🌱 I’m currently learning **MERN**
 
