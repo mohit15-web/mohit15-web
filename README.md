@@ -1,4 +1,7 @@
+<h1 align="center">Hi 👋, I'm Mohit Chaudhary</h1>
+<h3 align="center">A passionate frontend developer</h3>
 
+<img align='right' src='https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif' alt='coding gif' width='450px'/>
 
 
 - 🌱 I’m currently learning **MERN**
@@ -14,12 +17,7 @@
 <a href="https://www.leetcode.com/mohit151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohit151" height="30" width="40" /></a>
 </p>
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h3 style="display: inline-block">🧑‍💻Frequently Used Tech🧑‍💻</h3></summary>
-  </ul>
-</div>
+
 <div> <a href="https://github.com/https://github.com/mohit15-web" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
