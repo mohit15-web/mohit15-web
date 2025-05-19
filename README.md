@@ -5,7 +5,7 @@
 
 <img align='right' src='https://i.ibb.co/WFLM04Z/developer.webp' alt='coding gif' width='450px'/>
 
-I’m currently working on Developing innovative web applications and projects that push the boundaries of technology and user experience.<br><br>🌱 I’m currently learning MERN <br><br>👨‍💻 All of my projects are available at [Portfolio](https://portfolio-react-seven-ochre.vercel.app/)<br><br>💬 Ask me about React, Javascript<br><br>📫 How to reach me Slide into my DMs on LinkedIn or shoot me an email at mohitchoudharu2@gmail.com. Let's connect and chat over virtual coffee or tea (or whatever beverage tickles your fancy)!<br><br>📄 Know about my experiences [Resume](https://docs.google.com/document/d/1OLCIMJRMWyCihXfbb3l73CwZaFJuTmBP/edit?usp=drive_link&ouid=104828843335332663597&rtpof=true&sd=true)<br><br>
+I’m currently working on Developing innovative web applications and projects that push the boundaries of technology and user experience.<br><br>🌱 I’m currently learning MERN <br><br>👨‍💻 All of my projects are available at [Portfolio](https://portfolio-v2-sigma-bay.vercel.app/)<br><br>💬 Ask me about React, Javascript<br><br>📫 How to reach me Slide into my DMs on LinkedIn or shoot me an email at mohitchoudharu2@gmail.com. Let's connect and chat over virtual coffee or tea (or whatever beverage tickles your fancy)!<br><br>📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iDW6gK6qIKe1n7QJKeNt-r9fAv6zVMjx/view)<br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit15-web&label=Profile%20views&color=0e75b6&style=flat" alt="mohit15-web" /> </p>
 
